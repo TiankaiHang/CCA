@@ -1,0 +1,36 @@
+python-dotenv
+tenacity
+typer
+sentencepiece
+colorama
+tiktoken
+
+langchain==0.0.314
+openai==0.28.1
+protobuf==3.20.0
+
+albumentations==0.4.3
+datasets==2.8.0
+diffusers #==0.18.0
+opencv-python
+pudb==2019.2
+invisible-watermark
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+pytorch-lightning==1.4.2
+omegaconf==2.1.1
+test-tube>=0.7.5
+streamlit>=0.73.1
+einops==0.3.0
+torch-fidelity==0.3.0
+transformers #==4.19.2
+torchmetrics==0.6.0
+kornia==0.6
+-e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
+-e git+https://github.com/openai/CLIP.git@main#egg=clip
+# openai
+gradio
+seaborn
+git+https://github.com/crowsonkb/k-diffusion.git
+deepspeed
+timm
