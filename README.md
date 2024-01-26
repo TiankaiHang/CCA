@@ -52,8 +52,11 @@ If you find our work useful for your research, please consider citing our paper.
 ```bibtex
 @article{cca2023,
   title={CCA: Collaborative Competitive Agents for Image Editing},
-  author={Hang Tiankai, Gu Shuyang, Chen Dong, Geng Xin, Guo Baining},
-}
+      author={Tiankai Hang and Shuyang Gu and Dong Chen and Xin Geng and Baining Guo},
+      year={2024},
+      eprint={2401.13011},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 ```
 
 ## Acknowlegements
