@@ -1,6 +1,6 @@
 # CCA: Collaborative Competitive Agents for Image Editing
 
-[Paper](./) | [Code](./)
+[Paper](https://arxiv.org/abs/2401.13011) | [Code](https://github.com/TiankaiHang/CCA)
 
 ## Abstract
 
